@@ -29,9 +29,7 @@ During the execution of scenario **TC_CPC_22 (Invoice appears in Order History)*
 ## 👩‍💻 Author
 
 ### Isabela Bueno Silva
-* Data & Tech Enabler: Python, Streamlit, SQL, Automação de Fluxos & QA
-
-* I am a Junior Quality Assurance (QA) Analyst with fluent English, a strong analytical mindset, and sharp attention to detail. Currently available for international remote freelance projects and contract opportunities.
+I am a Junior Quality Assurance (QA) Analyst with fluent English, a strong analytical mindset, and sharp attention to detail. Currently available for international remote freelance projects and contract opportunities.
 
 Transitioning from a solid background in Data Analysis and Educational Project Management, I bring a unique perspective to software testing: I understand user behavior (UX) and know how to translate complex requirements into rigorous test scenarios to ensure high product quality and seamless usability.
 
